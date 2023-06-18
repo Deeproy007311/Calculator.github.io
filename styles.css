@@ -1,0 +1,39 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    /* background-color: black; */
+    background-image: url("https://wallpaperset.com/w/full/4/3/5/521096.jpg");
+}
+/* .container{
+    background-color: violet;
+} */
+.divide-multiplication-subtract-plus-equals{
+    background-color: #FFA41B;
+    color: #fff;
+}
+.divide-multiplication-subtract-plus-equals:hover{
+    background-color: #de8500;
+}
+.heading{
+    color: #fff;
+}
+.dot0123456789{
+    background-color: #777373;
+    color: #fff;
+}
+.dot0123456789:hover{
+    background-color: rgb(148, 146, 146);
+}
+.btn{
+    border-radius: 71px;
+    font-size: 26px;
+    border: none;
+}
+.input-text{
+    border-radius: 57px;
+    font-size: 22px;
+    border: none;
+}
+.AC-Percent{
+    background-color: #aaa7a7;
+    color: #fff;
+}
